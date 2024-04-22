@@ -88,8 +88,6 @@ and click on the connect icon
 ![image 1](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/c0c0ae2a-c4e7-4444-9c7e-b2d5c0d99a60)
 ![image 2](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/92c6148a-a614-4de2-9194-399b4528702c)
 ![image 3](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/dabf6518-bf6c-4cb1-a073-88f3e16739fe)
-![image 4](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/52bd96fc-b3c5-4ad9-9b0d-58647e609030)
-![image 5](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/7662a11d-ab70-4140-af26-f4cd766fd18d)
 ![image 6](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/cc16bf2c-2ece-4afe-81d2-1d17f2e3364e)
 ![image 7](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/4190b778-8e94-4873-84ad-6198b7142449)
 ![image 8](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/ec752d06-c25e-467b-87c8-9f231d84cee4)
