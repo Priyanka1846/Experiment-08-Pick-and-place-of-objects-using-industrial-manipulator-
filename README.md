@@ -1,3 +1,7 @@
+## DATE : 22/04/2024
+## NAME : PRIYANKA K
+## REG NO : 212223230162
+## DEPARTMENT : ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Aim :
@@ -67,7 +71,6 @@ Weight: 33 kg.
 Installation position: floor, ceiling, walls.
 
 
-
 ![download](https://user-images.githubusercontent.com/36288975/201624230-89cc83ff-cecd-49ea-84c6-c67066e9d157.jpg)
 
 ### Figure -02 Doosan M1013 industrial collaborative robot manipulator 
@@ -78,38 +81,29 @@ Installation position: floor, ceiling, walls.
 2. click on the internet interface 
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
-
 3. click on the 
 
+### output screen shots of pick and place 
+
+![image 1](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/c0c0ae2a-c4e7-4444-9c7e-b2d5c0d99a60)
+![image 2](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/92c6148a-a614-4de2-9194-399b4528702c)
+![image 3](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/dabf6518-bf6c-4cb1-a073-88f3e16739fe)
+![image 4](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/52bd96fc-b3c5-4ad9-9b0d-58647e609030)
+![image 5](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/7662a11d-ab70-4140-af26-f4cd766fd18d)
+![image 6](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/cc16bf2c-2ece-4afe-81d2-1d17f2e3364e)
+![image 7](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/4190b778-8e94-4873-84ad-6198b7142449)
+![image 8](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/ec752d06-c25e-467b-87c8-9f231d84cee4)
+![image 9](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/5b147874-d757-4238-a4ff-ea159156297c)
+![image 10](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/0c564b25-3bb0-4b81-a4fa-6d2cf0af3cbc)
+![image 11](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/d460527c-3cf2-4407-b12c-2dcf2ed1e9b6)
+![image 12](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/ca20e4f0-46f9-43b3-bdff-d40f0539f903)
 
 
+### output video of pick and place
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### output video and screen shots of pick and place 
-
-
-
-
-
+https://drive.google.com/file/d/1LmN0ETaKLjuAPuN8auTyWkIjxrtCyab9/view?usp=drive_link
 
 
 ### Results: 
 
-
-
-
-
-
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
