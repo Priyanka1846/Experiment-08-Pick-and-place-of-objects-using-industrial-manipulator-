@@ -82,6 +82,11 @@ Installation position: floor, ceiling, walls.
 
 and click on the connect icon 
 4. click on the 
+![image 9](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/5b147874-d757-4238-a4ff-ea159156297c)
+![image 10](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/0c564b25-3bb0-4b81-a4fa-6d2cf0af3cbc)
+![image 11](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/d460527c-3cf2-4407-b12c-2dcf2ed1e9b6)
+![image 12](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/ca20e4f0-46f9-43b3-bdff-d40f0539f903)
+
 
 ## Output screen shots of pick and place 
 
@@ -91,10 +96,6 @@ and click on the connect icon
 ![image 6](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/cc16bf2c-2ece-4afe-81d2-1d17f2e3364e)
 ![image 7](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/4190b778-8e94-4873-84ad-6198b7142449)
 ![image 8](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/ec752d06-c25e-467b-87c8-9f231d84cee4)
-![image 9](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/5b147874-d757-4238-a4ff-ea159156297c)
-![image 10](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/0c564b25-3bb0-4b81-a4fa-6d2cf0af3cbc)
-![image 11](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/d460527c-3cf2-4407-b12c-2dcf2ed1e9b6)
-![image 12](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/ca20e4f0-46f9-43b3-bdff-d40f0539f903)
 
 
 ## Output video of pick and place
