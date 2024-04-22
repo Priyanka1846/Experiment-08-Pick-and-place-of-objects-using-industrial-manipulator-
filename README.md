@@ -40,10 +40,10 @@ Gripping & drop detection
 Force & position adjustment
 Self-locking
 
-                  ![ag-95](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
-### Figure -01 DH gripper with two finger gripper 
+![ag-95](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
+## Figure -01 DH gripper with two finger gripper 
 
-#### Specifications
+## Specifications
 
 Opening stroke	95mm
 Gripping force 	45-160N
@@ -54,12 +54,10 @@ Position repeatability	0.03mm
 Supply voltage	24VDC±10%
 Current	≤1.5A
 
-
-
-### Doosan M1013 industrial collaborative robot manipulator 
+## Doosan M1013 industrial collaborative robot manipulator 
 Doosan Robotics designs collaborative robots for all types of operators, from engineers to teachers to designers of industrial robotics solutions. There are currently 4 robotic arms in the range, including this M1013 ROS robotic arm. With 6 degrees of freedom and a total reach of 1,300 mm, the Doosan M1013 Robotic Arm offers the speed and precision of execution necessary for all types of automated operation.
 
-#### specifications 
+## specifications 
 Technical specifications of the Doosan Robotics M1013 arm:
 Degrees of freedom: 6.
 Payload: 10 kg.
@@ -73,17 +71,18 @@ Installation position: floor, ceiling, walls.
 
 ![download](https://user-images.githubusercontent.com/36288975/201624230-89cc83ff-cecd-49ea-84c6-c67066e9d157.jpg)
 
-### Figure -02 Doosan M1013 industrial collaborative robot manipulator 
+## Figure -02 Doosan M1013 industrial collaborative robot manipulator 
 
-#### Procedure : 
+## Procedure : 
 
 1. click on dart platfom icon ![image](https://user-images.githubusercontent.com/36288975/201621038-f1248586-5c20-40fd-8a74-68c7d8b44939.png)
 2. click on the internet interface 
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
-and click on the connect icon 
-3. click on the 
 
-### output screen shots of pick and place 
+and click on the connect icon 
+4. click on the 
+
+## Output screen shots of pick and place 
 
 ![image 1](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/c0c0ae2a-c4e7-4444-9c7e-b2d5c0d99a60)
 ![image 2](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/92c6148a-a614-4de2-9194-399b4528702c)
@@ -99,11 +98,11 @@ and click on the connect icon
 ![image 12](https://github.com/Priyanka1846/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139425809/ca20e4f0-46f9-43b3-bdff-d40f0539f903)
 
 
-### output video of pick and place
+## Output video of pick and place
 
 https://drive.google.com/file/d/1LmN0ETaKLjuAPuN8auTyWkIjxrtCyab9/view?usp=drive_link
 
 
-### Results: 
+## Results: 
 
 Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
